@@ -10,7 +10,7 @@
 ## 🌐 En Vivo
 
 🌟 Puedes visitar mi portafolio en línea en:  
-[🔗 https://tu-enlace-al-portafolio.com](https://tu-enlace-al-portafolio.com)
+[🔗 https://tu-enlace-al-portafolio.com](https://juanma17guti.github.io/My-portfolio/)
 
 ## ⚙️ Instalación
 
